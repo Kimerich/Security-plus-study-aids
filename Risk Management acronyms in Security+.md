@@ -9,12 +9,12 @@
 ## ARO
 ### Annual Rate of Occurance
 #### How often an event is expected to happen in a year.
-- *Over the past 5 years, 1 of our 10 cars was in a accident that totaled the vehicle . We have determined that we can expect to have 2% change of an accident per year.*
+- *Ex. Over the past 5 years, 1 of our 10 cars was in a accident that totaled the vehicle . We have determined that we can expect to have 2% change of an accident per year.*
 
 ## BIA
 ### Business Impact Analysis
 #### A systematic process to determine and evaluate the potential effects of an interruption to critical business operations as a result of a disaster, accident or emergency.
-- * The owners of a restaurant look into what would happen if their business experienced a black out. Some of the effects include: lost business if they cannot continue operations, lost inventory if food spoils, increased risk of crime if alarms and cameras do not have battery backup, etc... They decide to mitigate this by purchasing a generator with some diesel to continue operations in case of such an event.*
+- * Ex. The owners of a restaurant look into what would happen if their business experienced a black out. Some of the effects include: lost business if they cannot continue operations, lost inventory if food spoils, increased risk of crime if alarms and cameras do not have battery backup, etc... They decide to mitigate this by purchasing a generator with some diesel to continue operations in case of such an event.*
 
 ## DRP
 ### Disaster Recovery Plan
