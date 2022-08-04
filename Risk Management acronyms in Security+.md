@@ -9,7 +9,7 @@
 ## BIA
 ### Business Impact Analysis
 #### A systematic process to determine and evaluate the potential effects of an interruption to critical business operations as a result of a disaster, accident or emergency.
-- * .*
+- * The owners of a restaurant look into what would happen if their business experienced a black out. Some of the effects include: lost business if they cannot continue operations, lost inventory if food spoils, increased risk of crime if alarms and cameras do not have battery backup, etc... They decide to mitigate this by purchasing a generator with some diesel to continue operations in case of such an event.*
 
 ## DRP
 ### Disaster Recovery Plan
@@ -18,8 +18,8 @@
 
 ## MTBF
 ### Mean Time Before Failure
-
-- *Ex: knowing your running shoes must be replaced every 6 months and shopping accordingly.*
+#### The estimated time between failures of a system.
+- *Ex: knowing your running shoes must be replaced every 6 months and replacing them accordingly.*
 
 ## MTTR
 ### Mean Time To Repair
@@ -44,7 +44,7 @@
 ## SLE
 ### Single Loss Expectancy 
 #### How much money we’re going to lose if that single event occurs
-- *Ex. My company has 2 cars both values at $20,000. If one is totalled in an accident it will be a loss of $20,000.*
+- *Ex. My company has 2 cars both values at $20,000. If one is totalled in an accident it will be a loss of $20,000. (FOr now assume a car cannot be partially damaged.)*
 
 ## SLO
 ### Single Loss Occurance 
