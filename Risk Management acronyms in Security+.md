@@ -2,9 +2,14 @@
 
 ## ALE
 ### Annual Loss Expected
-#### Amount a business can expect to lose on average. This is determined by the Annual Rate of Occurance (ARO) and the Single Loss Expectancy (SLE).
+#### Amount a business can expect to lose on average per year. This is determined by the Annual Rate of Occurance (ARO) and the Single Loss Expectancy (SLE).
 #### The formula to determine this is: ARO x SLE = ALE
 - *Ex. We have a $20,000 car and there is a 2% chance it will be totalled. Our ALO is $400 for this year.*
+
+## ARO
+### Annual Rate of Occurance
+#### How often an event is expected to happen in a year.
+- *Over the past 5 years, 1 of our 10 cars was in a accident that totaled the vehicle . We have determined that we can expect to have 2% change of an accident per year.*
 
 ## BIA
 ### Business Impact Analysis
